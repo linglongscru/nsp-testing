@@ -26,6 +26,5 @@
   },
   "dependencies": {
     "marked": "0.3.3",
-    "dummy": "0.0.0"
   }
 }
